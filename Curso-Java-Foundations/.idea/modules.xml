@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 2/Aula 2.iml" filepath="$PROJECT_DIR$/Aula 2/Aula 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 8.12/Aula 8.12.iml" filepath="$PROJECT_DIR$/Aula 8.12/Aula 8.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula1/Aula1.iml" filepath="$PROJECT_DIR$/Aula1/Aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/production/Curso-Java-Foundations/Aula1/Aula2.iml" filepath="$PROJECT_DIR$/out/production/Curso-Java-Foundations/Aula1/Aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD alunos/CRUD alunos.iml" filepath="$PROJECT_DIR$/CRUD alunos/CRUD alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso-Java-Foundations.iml" filepath="$PROJECT_DIR$/.idea/Curso-Java-Foundations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/production/Curso-Java-Foundations/IntroducaoPOO/IntroducaoPOO.iml" filepath="$PROJECT_DIR$/out/production/Curso-Java-Foundations/IntroducaoPOO/IntroducaoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroducaoPOO/IntroducaoPOO2.iml" filepath="$PROJECT_DIR$/IntroducaoPOO/IntroducaoPOO2.iml" />
+    </modules>
+  </component>
+</project>
